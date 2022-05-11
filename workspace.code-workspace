@@ -1,0 +1,15 @@
+{
+    "folders": [
+		{
+			"name": "Images used",
+			"path": "../../../Downloads/Images used"
+		},
+		{
+			"name": "WebDevProj",
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "WebDevProj"
+    }
+}
